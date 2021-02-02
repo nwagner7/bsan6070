@@ -5,5 +5,5 @@ This is the first Computer Assignment for BSAN 6070 Intro to Machine Learning co
 Configuration/Installation Instructions
 There are no major configuration or installation instructions. Jupyter Notebook was used to complete this assignment, however the code and execution of the code can be seen here on GitHub. 
 List of Files Included
-The dataset was downloaded from Kaggle (https://www.kaggle.com/shrutibhargava94/india-air-quality-data) and saved as a csv utf-8 file. 
+The dataset was downloaded from Kaggle (https://www.kaggle.com/shrutibhargava94/india-air-quality-data) and saved as a csv utf-8 file. This file was then uploaded to Jupyter.
 
