@@ -14,3 +14,13 @@ Configuration/Installation Instructions
 Google Colab was used for this assignment. Files from Google Drive were used for the data and can be found at the following link: https://drive.google.com/drive/folders/1u7iKwIEeBnJyvtNAT9FsBCeoSuNUaFvn?usp=sharing
 List of Files Included
 The files of data can be found at the Google Drive link above.
+
+CA 03 - Decision Tree Algorithm
+Assignment Overview
+In this assignment, decision trees were trained, tested, and visualized to identify the best fitting model. The data was provided in the Brightspace assignment folder for CA03.
+Configuration/Installation Instructions
+This project was run on Google Colab. Several packages must be imported, which can be found inside the notebook. 
+Files Included
+This assignment contains an ipynb file, a README file, and a pdf document answering the written portion of the assignment.
+Known Bugs
+In section 6, the code to identify the AUC value does not execute correctly. It is unknown what the issue is, as the code for the other performance scores executes correctly.
